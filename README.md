@@ -1,6 +1,4 @@
-# OpenAi_ChatBot
-OpenAi_ChatBot Using openai package and open ai api with gradio to create an interface where somebody can put in their api and use the chatbot with ease
-GPT-3 Chatbot
+# GPT-3 Chatbot
 
 This is a simple chatbot powered by OpenAI's GPT-3 language model and built using the Gradio library for creating web-based UIs for machine learning models.
 Usage
